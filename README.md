@@ -34,7 +34,7 @@ This work is part of my learning journey through the Break Through Tech AI Progr
   * Dropout regularization
   * Final sigmoid layer for binary output
 * Trained on the TF-IDF transformed text data
-* Used binary crossentropy loss and Adam optimizer
+* Used binary crossentropy loss and SGD optimizer
 
 ### 💾 4. Model Persistence
 
