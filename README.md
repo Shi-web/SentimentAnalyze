@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-This project focuses on **binary sentiment classification** using book reviews. Given the text of a review, the goal is to predict whether the sentiment is **positive** or **negative**. While the original lab activity suggested logistic regression, this implementation goes further by training a **feedforward neural network** for improved performance.
+This project focuses on **binary sentiment classification** using book reviews. Given the text of a review, the goal is to predict whether the sentiment is **positive** or **negative**. This has been implemented by training a **feedforward neural network** for improved performance.
 
 This work is part of my learning journey through the Break Through Tech AI Program, where I applied machine learning concepts in natural language processing (NLP).
 
